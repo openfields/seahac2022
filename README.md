@@ -9,7 +9,9 @@ Additional Resources:
 
 Bayesian Modeling: 
 Milad Kharratzadeh's English Premier League Analysis - https://github.com/milkha/EPL_KDD 
+
 Richard McElreath on YouTube - https://www.youtube.com/@rmcelreath  
+
 Stan user forums - https://discourse.mc-stan.org/ 
 
 
