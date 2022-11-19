@@ -15,4 +15,6 @@ Richard McElreath on YouTube - https://www.youtube.com/@rmcelreath
 
 Stan user forums - https://discourse.mc-stan.org/ 
 
+Santos-Fernandez et al. (2019), review of Bayesian applications in sports (open access) - https://www.degruyter.com/document/doi/10.1515/jqas-2018-0106/html
+
 
