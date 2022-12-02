@@ -1,4 +1,6 @@
 # seahac2022
+Update, 12/2/2022 - I've added my slides and some extended notes related to my 5-min presentation. I'll post a more technical write up things here soon.
+
 Analysis for SEAHAC 2022 Presentation, will post files for analysis and presentation here after (American) Thanksgiving
 1. Compilation of game event data
 2. Characterization of game event data
